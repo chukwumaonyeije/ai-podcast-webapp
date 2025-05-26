@@ -1,3 +1,4 @@
 export default function Dashboard() {
-  return <div>Welcome to the Dashboard</div>;
+  return <div>Dashboard page coming soon!</div>;
 }
+

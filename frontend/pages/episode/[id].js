@@ -6,3 +6,4 @@ export default function Episode() {
 
   return <div>Episode ID: {id}</div>;
 }
+
